@@ -1,0 +1,15 @@
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\bin\Debug\net8.0\classificandoNumeros.exe
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\bin\Debug\net8.0\classificandoNumeros.deps.json
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\bin\Debug\net8.0\classificandoNumeros.runtimeconfig.json
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\bin\Debug\net8.0\classificandoNumeros.dll
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\bin\Debug\net8.0\classificandoNumeros.pdb
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.sourcelink.json
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.dll
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\refint\classificandoNumeros.dll
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.pdb
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\classificandoNumeros.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Documentos\AulasPraticas\AulaDotNet\arquivos_aula\classificandoNumeros\obj\Debug\net8.0\ref\classificandoNumeros.dll
